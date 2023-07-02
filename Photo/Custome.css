@@ -1,0 +1,9 @@
+#Expericence{
+    margin-bottom: 50px;
+}
+
+@media (max-width: 700px) {
+    #Expericence{
+        margin-bottom: 0px;
+    }
+  }
